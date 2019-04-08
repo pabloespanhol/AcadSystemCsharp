@@ -1,0 +1,116 @@
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe.config
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.pdb
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Principal.resources
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.exe
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.pdb
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+F:\3TE\TCC\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.PagCliente.resources
+C:\Users\INFORMATICA\Desktop\PROJETO\Academia\Academia\bin\Debug\Academia.exe.config
+C:\Users\INFORMATICA\Desktop\PROJETO\Academia\Academia\obj\Debug\Academia.exe
+C:\Users\INFORMATICA\Desktop\PROJETO\Academia\Academia\obj\Debug\Academia.pdb
+F:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe.config
+F:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.exe
+F:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.pdb
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe.config
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.exe
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.pdb
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Principal.resources
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.pdb
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.PagCli.resources
+H:\3TE2SEM2014\TCC\PROJETO\Academia\Academia\bin\Debug\MySql.Data.Entity.EF5.dll
+H:\TCC\PROJETO\Academia\Academia\bin\Debug\Academia.exe.config
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.exe
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.pdb
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Principal.resources
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.PagCli.resources
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+H:\TCC\PROJETO\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\INFORMATICA\Desktop\Academia\Academia\bin\Debug\Academia.exe.config
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.exe
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.pdb
+C:\Users\INFORMATICA\Desktop\Academia\Academia\bin\Debug\Academia.exe
+C:\Users\INFORMATICA\Desktop\Academia\Academia\bin\Debug\Academia.pdb
+C:\Users\INFORMATICA\Desktop\Academia\Academia\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.Principal.resources
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.PagCli.resources
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\INFORMATICA\Desktop\Academia\Academia\obj\Debug\Academia.FormLogin.resources
+F:\Academia\Academia\bin\Debug\Academia.exe.config
+F:\Academia\Academia\obj\Debug\Academia.exe
+F:\Academia\Academia\obj\Debug\Academia.pdb
+F:\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+F:\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+F:\Academia\Academia\obj\Debug\Academia.FormLogin.resources
+F:\Academia\Academia\obj\Debug\Academia.Principal.resources
+F:\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+F:\Academia\Academia\obj\Debug\Academia.PagCli.resources
+F:\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+F:\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Academia\Academia\bin\Debug\Academia.exe.config
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.exe
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.pdb
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.Principal.resources
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.PagCli.resources
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+C:\Users\usuario\Desktop\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+G:\Academia\Academia\bin\Debug\Academia.exe.config
+G:\Academia\Academia\obj\Debug\Academia.exe
+G:\Academia\Academia\obj\Debug\Academia.pdb
+G:\Academia\Academia\bin\Debug\Academia.exe
+G:\Academia\Academia\bin\Debug\Academia.pdb
+G:\Academia\Academia\bin\Debug\MySql.Data.Entity.EF5.dll
+G:\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+G:\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+G:\Academia\Academia\obj\Debug\Academia.FormFuncionario.resources
+G:\Academia\Academia\obj\Debug\Academia.Principal.resources
+G:\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+G:\Academia\Academia\obj\Debug\Academia.PagCli.resources
+G:\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+G:\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\Pablo Espanhol\Desktop\TCC ACADSYSTEM\Academia\Academia\bin\Debug\Academia.exe.config
+C:\Users\Pablo Espanhol\Desktop\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.exe
+C:\Users\Pablo Espanhol\Desktop\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.pdb
+F:\TCC ACADSYSTEM\Academia\Academia\bin\Debug\Academia.exe.config
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.exe
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.pdb
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.FormFuncionario.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.Principal.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.PagCli.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+F:\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\bin\Debug\Academia.exe.config
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.exe
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.pdb
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.CadastroCliForm.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.FormFuncionario.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.Principal.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.LoginForm.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.PagCli.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\Pablo Espanhol\Desktop\Backup Pendrive\TCC ACADSYSTEM\Academia\Academia\obj\Debug\Academia.FrmLogin.resources
